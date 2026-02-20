@@ -4,9 +4,9 @@
 import { Header } from "./features/layout/components/Header"
 import { Content } from "./features/layout/components/Content"
 import { Footer } from "./features/layout/components/Footer"
-import Props  from "./features/layout/components/Props"
+import Props from "./features/layout/components/Props"
 
-import { BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom'
+import { BrowserRouter , Routes, Route } from 'react-router-dom'
 
 function App() {
 
